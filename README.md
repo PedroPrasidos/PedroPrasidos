@@ -19,6 +19,20 @@ I enjoy turning ideas into practical projects, learning new technologies and fig
 
 </div>
 
+## 🛠️ Tech Stack
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,dart,c,html,css,js)](https://skillicons.dev)
+
+### Frameworks & Technologies
+[![Frameworks](https://skillicons.dev/icons?i=flutter,flask)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 ---
 
 ## 🧑‍💻 About Me
