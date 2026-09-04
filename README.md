@@ -66,18 +66,6 @@ A collaborative project focused on **pisciculture management**, combining softwa
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PedroPrasidos&show_icons=true&hide_border=true&theme=transparent" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrasidos&layout=compact&hide_border=true&theme=transparent" height="180">
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 Always learning. Always building.
